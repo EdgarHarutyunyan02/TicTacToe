@@ -1,0 +1,5 @@
+images/*
+app*.py
+test*.py
+game_.py
+Pipfile.lock
